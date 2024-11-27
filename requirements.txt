@@ -1,0 +1,4 @@
+loguru~=0.7.2
+grpcio~=1.68.0
+opentelemetry-sdk~=1.28.2
+opentelemetry-exporter-otlp-proto-grpc~=1.28.2
