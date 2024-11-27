@@ -84,6 +84,7 @@ sudo nano /etc/rsyslog.conf
 ```bash
 sudo nano /etc/syslog-ng/syslog-ng.conf
 ```
+```
 destination d_otel {
     network(
         "127.0.0.1"
