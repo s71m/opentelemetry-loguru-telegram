@@ -1,5 +1,6 @@
 
 For enabling telegram exporter need to build custom otelcol-contrib, how described here:
+[readme_otelcol_contrib.md](docs%2Freadme_otelcol_contrib.md)
 
 After that add this section to etc/otelcol-contrib/config.yaml 
 
